@@ -1,1 +1,1 @@
-# GNSWebsite
+# GNSInvite
